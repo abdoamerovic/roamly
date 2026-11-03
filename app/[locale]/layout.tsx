@@ -59,6 +59,9 @@ export async function generateMetadata({
       index: true,
       follow: true,
     },
+    icons: {
+  icon: "/images/main/OIG3.png",
+},
   };
 }
 
