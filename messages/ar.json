@@ -1,0 +1,242 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "explore": "استكشف",
+    "services": "الخدمات",
+    "myTrip": "رحلتي",
+    "planTrip": "خطّط لرحلتك"
+  },
+  "hero": {
+    "eyebrow": "اذهب أبعد، وسافر ببطء",
+    "title": "استكشف ما <highlight>وراء المألوف.</highlight>",
+    "description": "أدلة مدروسة، وخدمات سفر موثوقة، ومخطِّط بسيط وجميل لرحلات تبقى في الذاكرة.",
+    "cta": "استكشف الوجهات",
+    "featuredLabel": "الرحلة المميزة",
+    "featuredTitle": "ساحل البحر المتوسط"
+  },
+  "destinations": {
+    "eyebrow": "أماكن تستحق الرحلة",
+    "title": "إلى أين وجهتك التالية؟",
+    "viewAll": "عرض كل الوجهات",
+    "items": {
+      "kyoto": { "name": "كيوتو", "country": "اليابان", "category": "ثقافة" },
+      "amalfi": { "name": "ساحل أمالفي", "country": "إيطاليا", "category": "ساحل" },
+      "marrakech": { "name": "مراكش", "country": "المغرب", "category": "مدينة" },
+      "patagonia": { "name": "باتاغونيا", "country": "الأرجنتين", "category": "طبيعة" }
+    }
+    
+  },
+  "services": {
+    "eyebrow": "كل ما تحتاجه رحلتك",
+    "title": "سافر بأناقة، من الفكرة حتى الوصول.",
+    "viewAll": "استكشف كل الخدمات",
+    "description": "رحلات الطيران والإقامة والتجارب الخاصة والتفاصيل العملية، كلها مرتّبة بعناية في مكان واحد.",
+    "items": {
+      "flights": "الطيران",
+      "stays": "الإقامة",
+      "experiences": "تجارب خاصة",
+      "transfers": "خدمات التنقّل"
+    }
+  },
+  "cta": {
+    "eyebrow": "رحلتك، على طريقتك",
+    "title": "خطّط لهروبك <highlight>القادم.</highlight>",
+    "description": "اجمع الأماكن التي تحبها، وحوّلها إلى برنامج رحلة مدروس، واترك الباقي لخبراء السفر لدينا.",
+    "button": "ابدأ التخطيط"
+  },
+  "footer": {
+    "tagline": "سفر مدروس، وتخطيط بأناقة.",
+    "discover": "اكتشف",
+    "allDestinations": "كل الوجهات",
+    "coastalEscapes": "رحلات الساحل",
+    "cityGuides": "أدلة المدن",
+    "plan": "خطّط",
+    "myTrip": "رحلتي",
+    "services": "الخدمات",
+    "getInTouch": "تواصل معنا",
+    "copyright": " © 2027 Roamly",
+    "madeFor": "صُنع للزوار"
+  },
+  "explore": {
+    "eyebrow": "اكتشف وجهتك القادمة",
+    "title": "أماكن تستحق <highlight>الاستكشاف.</highlight>",
+    "description": "وجهات مختارة للمسافرين الشغوفين بالاكتشاف، من السواحل الهادئة إلى المدن الغنية بالثقافة.",
+    "searchPlaceholder": "ابحث عن الوجهات",
+    "all": "الكل",
+    "destinationCount": "05 وجهات",
+    "breadcrumb": "استكشف",
+     "empty": "لا توجد وجهات مطابقة لبحثك.",
+
+    "countLabel": "اختيرت بعناية"
+  },
+  "servicesP": {
+    "eyebrow": "رحلات بتخطيط مدروس",
+    "title": "كل تفصيلة  <highlight>بعناية واحترافية. </highlight>",
+    "description": "احجز أساسيات رحلتك، واكتشف تجارب استثنائية<highlight></highlight>، أو دع خبراءنا يصممون لك الرحلة بالكامل.",
+    "chooseService": "اختر خدمة",
+    "items": {
+      "flights": {
+        "id":"01",
+        "title": "رحلات الطيران",
+        "description": "مسارات مدروسة، وأسعار مرنة، ورحلات ربط <highlight></highlight>سلسة."
+      },
+      "stays": {
+        "id":"02",
+        "title": "أماكن الإقامة",
+        "description": "فنادق مميزة، وفيلات خاصة، وأماكن إقامة مختارة <highlight></highlight>بعناية."
+      },
+      "privateExperiences": {
+        "id":"03",
+        "title": "تجارب خاصة",
+        "description": "مرشدون محليون، ومطاعم مميزة، وتجارب تتجاوز الأدلة السياحية <highlight></highlight>التقليدية."
+      },
+      "transfers": {
+        "id":"04",
+        "title": "التنقلات",
+        "description": "سائقون خاصون، ورحلات بالقطار، ووصول مريح دون <highlight></highlight>عناء."
+      },
+      "travelInsurance": {
+        "id":"05",
+        "title": "تأمين السفر",
+        "description": "حماية موثوقة وواضحة تناسب مختلف أنواع <highlight></highlight>الرحلات."
+      },
+      "visaAssistance": {
+        "id":"06",
+        "title": "المساعدة في التأشيرات",
+        "description": "إرشادات عملية ومساعدة في تجهيز المستندات قبل <highlight></highlight>السفر."
+      },
+      "customItineraries": {
+        "id":"07",
+        "title": "برامج رحلات مخصصة",
+        "description": "رحلة متكاملة مصممة وفقًا لاهتماماتك والوتيرة التي <highlight></highlight>تناسبك."
+      },
+      "travelConcierge": {
+        "id":"08",
+        "title": "خدمة الكونسيرج السياحي",
+        "description": "دعم شخصي وسريع الاستجابة قبل رحلتك وأثناءها <highlight></highlight>وبعدها."
+      }
+    },
+    "howItWorks": {
+      "title": "كيف تعمل الخدمة؟",
+      "steps": {
+        "tellUs": {
+          "number": "01",
+          "title": "أخبرنا بما تحتاج إليه",
+          "description": "شاركنا وجهتك ومواعيد سفرك وأسلوب الرحلة الذي تفضله."
+        },
+        "reviewOptions": {
+          "number": "02",
+          "title": "راجع الخيارات المتاحة",
+          "description": "احصل على قائمة مختارة بعناية من خبراء السفر لدينا."
+        },
+        "travelConfidently": {
+          "number": "03",
+          "title": "سافر بكل ثقة",
+          "description": "أكمل حجزك بأمان، وتواصل معنا طوال رحلتك."
+        }
+      }
+    }
+  },
+  "privateExperienceForm": {
+    "title": "تجارب خاصة",
+    "heading": "ابدأ طلبك",
+    "description": "سيتواصل معك أحد خبراء Roamly خلال يوم عمل واحد.",
+    "name": "اسمك",
+    "email": "البريد الإلكتروني",
+    "tripDetails": "أخبرنا عن رحلتك",
+    "cancel": "إلغاء",
+    "send": "إرسال الطلب"
+  },
+    "booking": {
+    "title": "حجزك",
+    "heading": "في عطلة نهاية الأسبوع",
+    "description": "رحلة مُخطط لها بعناية، جاهزة عندما تكون مستعدًا.",
+    "steps": {
+      "itinerary": "برنامج الرحلة",
+      "details": "التفاصيل",
+      "confirm": "تأكيد"
+    }
+  },
+   "empty": {
+      "status": "الخريطة جاهزة",
+      "title": "إلى أين نذهب؟",
+      "description": "استكشف مجموعتنا وأضف وجهة لتبدأ في التخطيط لرحلتك.",
+      "button": "استكشف الوجهات"
+    },
+    "tripForm": {
+  "stepItinerary": "خط الرحلة",
+  "stepDetails": "التفاصيل",
+  "stepConfirm": "التأكيد",
+  "dateLabel": "التاريخ",
+  "travelersLabel": "عدد المسافرين",
+  "nameLabel": "الاسم الكامل",
+  "emailLabel": "البريد الإلكتروني",
+  "errorRequired": "هذا الحقل مطلوب",
+  "errorEmail": "يرجى إدخال بريد إلكتروني صالح",
+  "back": "رجوع",
+  "next": "التالي",
+  "from": "ابتداءً من",
+  "per": "لكل مسافر",
+  "dates": "14–18 يونيو · 4 ليالٍ",
+  "stay": "إقامة مختارة بعناية",
+  "transfer": "خدمة نقل خاصة عند الوصول",
+  "changes": "تعديلات مجانية خلال 48 ساعة",
+  "viewDestination": "عرض الوجهة",
+  "remo":"ازالة",
+  "confirm": "تأكيد الحجز"
+
+},
+"tripOverview": {
+  "title": "ملخص الرحلة",
+  "adults": "{count, plural, one {بالغ واحد} two {بالغان} few {# بالغين} many {# بالغاً} other {# بالغ}}",
+  "subtotal": "إجمالي الرحلة",
+  "planningFee": "رسوم التخطيط",
+  "complimentary": "مجاناً",
+  "estimatedTotal": "الإجمالي التقديري",
+  "continue": "المتابعة إلى التفاصيل",
+  "noPayment": "لن يتم سحب أي مبلغ اليوم",
+  "secureBooking": "حجز آمن",
+  "expertSupport": "دعم من خبراء السفر",
+  "addAnaotherDestination": "إضافة وجهة أخرى"
+  
+},
+"signpayment": {
+    "step": "02 — البيانات",
+    "title": "بيانات المسافر",
+    "description": "أين تود أن نرسل لك برنامج الرحلة وتحديثات الحجز؟",
+    "nameLabel": "الاسم الكامل",
+    "emailLabel": "البريد الإلكتروني",
+    "phoneLabel": "رقم الهاتف",
+    "countryLabel": "بلد الإقامة",
+    "backToItinerary": "العودة إلى برنامج الرحلة",
+    "errorRequired": "هذا الحقل مطلوب",
+    "errorEmail": "يرجى إدخال بريد إلكتروني صحيح",
+    "errorPhone": "يرجى إدخال رقم هاتف صحيح"
+  },
+  "ensurepayment": {
+    "confirmStep": "03 — التأكيد",
+    "confirmTitle": "راجع تفاصيل رحلتك",
+    "confirmDescription": "كل شيء جاهز. يرجى مراجعة بياناتك قبل إرسال طلبك.",
+    "contactDetails": "بيانات التواصل",
+    "backToDetails": "العودة إلى البيانات",
+    "successTitle": "تم إرسال الطلب",
+    "successText": "سنرسل إليك برنامج رحلتك وتحديثات الحجز عبر البريد الإلكتروني قريبًا."
+  },
+  "successpayment": {
+    "eyebrow": "حان وقت الانطلاق",
+    "title": "رحلتك أصبحت قيد التنفيذ.",
+    "description": "سيراجع أحد مصممي الرحلات في Roamly جميع التفاصيل ويتواصل معك خلال يوم عمل واحد.",
+    "reference": "رقم الرحلة",
+    "cta": "واصل الاستكشاف"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+    "back": "رجوع",
+    "next": "التالي",
+    "errorLabel": "خطأ",
+    "errorTitle": "حدث خطأ ما",
+    "errorDescription": "لم نتمكن من تحميل هذه الصفحة. يرجى المحاولة مرة أخرى.",
+    "tryAgain": "حاول مرة أخرى"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "services": "Services",
+    "myTrip": "My trip",
+    "planTrip": "Plan a trip"
+  },
+  "hero": {
+    "eyebrow": "Go farther, travel slower",
+    "title": "Explore beyond <highlight>the ordinary.</highlight>",
+    "description": "Thoughtful guides, trusted travel services, and a beautifully simple planner for journeys that stay with you.",
+    "cta": "Explore destinations",
+    "featuredLabel": "Featured journey",
+    "featuredTitle": "The Mediterranean coast"
+  },
+  "destinations": {
+    "eyebrow": "Places worth the journey",
+    "title": "Where will you go next?",
+    "viewAll": "View all destinations",
+    "items": {
+      "kyoto": { "name": "Kyoto", "country": "Japan", "category": "Culture" ,"id":1},
+      "amalfi": { "name": "Amalfi Coast", "country": "Italy", "category": "Coast" ,"id":2},
+      "marrakech": { "name": "Marrakech", "country": "Morocco", "category": "City" ,"id":3},
+      "patagonia": { "name": "Patagonia", "country": "Argentina", "category": "Nature","id":4 }
+    }
+  },
+  "services": {
+    "eyebrow": "Everything your journey needs",
+    "title": "Travel beautifully, from idea to arrival.",
+    "viewAll": "Explore all services",
+    "description": "Flights, stays, private experiences, and practical details—all thoughtfully arranged in one place.",
+    "items": {
+      "flights": "Flights",
+      "stays": "Stays",
+      "experiences": "Private experiences",
+      "transfers": "Transfers"
+    }
+  },
+  "cta": {
+    "eyebrow": "Your journey, made yours",
+    "title": "Plan your next <highlight>escape.</highlight>",
+    "description": "Collect places you love, shape them into a thoughtful itinerary, and let our travel experts handle the rest.",
+    "button": "Start planning"
+  },
+  
+  "footer": {
+    "tagline": "Thoughtful travel, beautifully planned.",
+    "discover": "Discover",
+    "allDestinations": "All destinations",
+    "coastalEscapes": "Coastal escapes",
+    "cityGuides": "City guides",
+    "plan": "Plan",
+    "myTrip": "My trip",
+    "services": "Services",
+    "getInTouch": "Get in touch",
+    "copyright": "© 2027 Roamly",
+    "madeFor": "Made for visitor"
+  },
+  
+  "explore": {
+  "eyebrow": "Find your somewhere",
+  "title": "Places to <highlight>wander.</highlight>",
+  "description": "Curated destinations for curious travelers, from quiet coastlines to cities rich with culture.",
+  "searchPlaceholder": "Search destinations",
+  "all": "All",
+  "breadcrumb": "Explore",
+  "empty": "No destinations match your search.",
+  "destinationCount": "06 destinations",
+  "countLabel": "Selected with care"
+},
+  "servicesP": {
+    "eyebrow": "Travel, considered",
+    "title": "Every detail, <highlight> expertly<br></br> handled. </highlight>",
+    "description": "Book the essentials, discover something remarkable,or ask<highlight></highlight>  our specialists to design the entire journey.",
+    "chooseService": "Choose a service",
+    "items": {
+      "flights": {
+        "id":"01",
+        "title": "Flights",
+        "description": "Thoughtful routes, flexible fares, and seamless <highlight></highlight>connections."
+      },
+      "stays": {
+        "id":"02",
+        "title": "Stays",
+        "description": "Characterful hotels, private villas, and trusted<highlight></highlight> hideaways."
+      },
+      "privateExperiences": {
+        "id":"03",
+        "title": "Private experiences",
+        "description": "Local guides, coveted tables, and access beyond the<highlight></highlight> guidebook."
+      },
+      "transfers": {
+        "id":"04",
+        "title": "Transfers",
+        "description": "Private drivers, rail journeys, and effortless<highlight></highlight> arrivals."
+      },
+      "travelInsurance": {
+        "id":"05",
+        "title": "Travel insurance",
+        "description": "Clear, reliable protection for every kind of<highlight></highlight> journey."
+      },
+      "visaAssistance": {
+        "id":"06",
+        "title": "Visa assistance",
+        "description": "Practical guidance and document support before<highlight></highlight> departure."
+      },
+      "customItineraries": {
+        "id":"07",
+        "title": "Custom itineraries",
+        "description": "A complete journey designed around your pace and<highlight></highlight> interests."
+      },
+      "travelConcierge": {
+        "id":"08",
+        "title": "Travel concierge",
+        "description": "Responsive, human support before, during, and after your<highlight></highlight> trip."
+      }
+    },
+    "howItWorks": {
+      "title": "How it works",
+      "steps": {
+        "tellUs": {
+          "number": "01",
+          "title": "Tell us what you need",
+          "description": "Share your destination, dates, and travel style."
+        },
+        "reviewOptions": {
+          "number": "02",
+          "title": "Review your options",
+          "description": "Receive a considered shortlist from our travel specialists."
+        },
+        "travelConfidently": {
+          "number": "03",
+          "title": "Travel with confidence",
+          "description": "Book securely and reach us throughout your journey."
+        }
+      }
+    }
+  },
+  
+  "privateExperienceForm": {
+    "title": "Private experiences",
+    "heading": "Start your request",
+    "description": "A Roamly specialist will reply within one business day.",
+    "name": "Your name",
+    "email": "Email address",
+    "tripDetails": "Tell us about your trip",
+    "cancel": "Cancel",
+    "send": "Send request"
+  },
+    "booking": {
+    "title": "Your booking",
+    "heading": "In the weekend",
+    "description": "A considered journey, ready when you are.",
+    "steps": {
+      "itinerary": "Itinerary",
+      "details": "Details",
+      "confirm": "Confirm"
+    }
+  },
+  "empty": {
+      "status": "The map is open",
+      "title": "Where should we go?",
+      "description": "Explore our collection and add a destination to begin shaping your journey.",
+      "button": "Explore destinations"
+    },
+    "tripForm": {
+  "stepItinerary": "Itinerary",
+  "stepDetails": "Details",
+  "stepConfirm": "Confirm",
+  "dateLabel": "Date",
+  "travelersLabel": "Travelers",
+  "nameLabel": "Full name",
+  "emailLabel": "Email",
+  "errorRequired": "This field is required",
+  "errorEmail": "Please enter a valid email address",
+  "back": "Back",
+  "next": "Next",
+  "from":"from",
+  "per":"per traveler",
+  "dates": "Jun 14–18 · 4 nights",
+  "stay": "Curated stay",
+  "transfer": "Private arrival transfer",
+  "changes": "Free changes for 48 hours",
+  "viewDestination": "View destination",
+  "remo":"remove",
+  "addAnotherDestination": "Add another destination",
+  "confirm": "Confirm reservation"
+},
+"tripOverview": {
+  "title": "Trip overview",
+  "adults": "{count, plural, one {# adult} other {# adults}}",
+  "subtotal": "Trip subtotal",
+  "planningFee": "Planning fee",
+  "complimentary": "Complimentary",
+  "estimatedTotal": "Estimated total",
+  "continue": "Continue to details",
+  "noPayment": "No payment is taken today",
+  "secureBooking": "Secure booking",
+  "expertSupport": "Travel expert support",
+  "addAnaotherDestination": "Add another destination"
+  
+},
+"signpayment": {
+  "step": "02 — Details",
+  "title": "Traveler details",
+  "description": "Where should we send your itinerary and booking updates?",
+  "nameLabel": "Full name",
+  "emailLabel": "Email address",
+  "phoneLabel": "Phone number",
+  "countryLabel": "Country of residence",
+  "backToItinerary": "Back to itinerary",
+  "errorRequired": "This field is required",
+  "errorEmail": "Please enter a valid email address"
+},
+"ensurepayment": {
+  "confirmStep": "03 — Confirm",
+  "confirmTitle": "Review your journey",
+  "confirmDescription": "Everything looks ready. Review your details before sending your request.",
+  "contactDetails": "Contact details",
+  "backToDetails": "Back to details",
+  "successTitle": "Request sent",
+  "successText": "We will email your itinerary and booking updates shortly."
+},
+"successpayment": {
+  "eyebrow": "Ready to wander",
+  "title": "Your journey is in motion.",
+  "description": "A Roamly travel designer will review every detail and contact you within one business day.",
+  "reference": "Journey reference",
+  "cta": "Keep exploring"
+},
+"common": {
+  "loading": "Loading...",
+  "error": "Something went wrong. Please try again.",
+  "back": "Back",
+  "next": "Next",
+  "errorLabel": "Error",
+  "errorTitle": "Something went wrong",
+  "errorDescription": "We couldn't load this page. Please try again.",
+  "tryAgain": "Try again"
+
+}}
+
+
+
