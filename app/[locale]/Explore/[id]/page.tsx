@@ -22,7 +22,7 @@ async function DetailsContent({ params }: { params: Params }) {
   const t = await getTranslations({ locale, namespace: "explore" });
 
   return (
-    <div className=" bg-third-background">
+    <div className=" bg-third-background p-4">
       <div className="mx-auto max-w-295 pt-4">
         <Breadcrumb
           items={[

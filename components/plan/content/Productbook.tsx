@@ -38,11 +38,11 @@ export default function ProductBook() {
 
           <div className="col-span-1 md:col-span-2">
             <div className="flex justify-between gap-3">
-              <div>
+              <div >
                 <p className="font-sans text-[11px] uppercase leading-[16.5px] tracking-[1.98px] text-eighth-text rtl:tracking-normal">
                   {product.place}
                 </p>
-                <h2 className="font-heading text-[32px] leading-10.1 text-secondary-background rtl:tracking-normal">
+                <h2 className="font-heading text-[22px] md:text-[38px] leading-10.1 text-secondary-background rtl:tracking-normal ">
                   {product.name}
                 </h2>
               </div>
